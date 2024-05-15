@@ -7,11 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/luckie_joe" target="blank"><img src="https://img.shields.io/twitter/follow/luckie_joe?logo=twitter&style=for-the-badge" alt="luckie_joe" /></a> </p>
 
-- 🌱 I’m currently learning **Leadership & Project Management**
-- 📝 Check my article [How to integrate CKEditor 5 plugin in the Drupal 9/10 module](https://lembergsolutions.com/blog/how-integrate-ckeditor5-plugin-drupal-9-10-module)
-- 📫 How to reach me **vovabaldych@gmail.com**
-- 📄 Wanna know about my experience? Check the [CV](https://docs.google.com/document/d/1vJVXWO2AM5OvL_qPK4u1Y9cRmKM-Gvde/edit?usp=sharing&ouid=106610948144538414027&rtpof=true&sd=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/luckie_joe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luckie_joe" height="30" width="40" /></a>
