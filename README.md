@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Volodymyr Baldych</h1>
-<h3 align="center">Ambitious. Charismatic. Goal-focused</h3>
+<h3 align="center">Ambitious. Charismatic. Rebel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbaldych&label=Profile%20views&color=0e75b6&style=flat" alt="vbaldych" /> </p>
 
